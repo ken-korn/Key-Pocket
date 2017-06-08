@@ -1,9 +1,7 @@
-<img>/Lang-Eng.svg.png</img>
+<img>Lang-Eng.svg.png</img>
 
 <h1>Folder Info</h1>
-This folder contains only files used in readmes, it doesn't belong to application
+<p>This folder contains only files used in readmes, it doesn't belong to application</p>
 
-Info Cartella
-=============
-
-Questa cartella contiene solo file usati nei readme, non fa parte dell'applicazione
+<h1>Info Cartella</h1>
+<p>Questa cartella contiene solo file usati nei readme, non fa parte dell'applicazione</p>
