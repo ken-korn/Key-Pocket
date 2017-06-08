@@ -1,11 +1,8 @@
 Folder Info
 =============
 
-This folder contains only files used in readmes, it doesn't belong to application
+This folder contains only files used in readmes, it doesn't belong to application    
 ---------------------------------------------------------------------------------
-
-
-
 
 Info Cartella
 =============
