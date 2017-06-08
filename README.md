@@ -17,6 +17,16 @@
 
 <h1>L'app è sicura?</h1>
 
-<p>Dimmelo tu! Mica a caso l'app è open source ;)</p>
+<p>Verificalo tu stesso! Mica a caso l'app è open source ;)</p>
 
-<h1>Come puoi contribuire?</h1>
+<h1>Come posso contribuire?</h1>
+
+<p>Che tu sia un semplice utente di internet, un programmatore o un alieno, puoi dare in ogni caso una mano:</p>
+<ul>
+<li>facendo conoscere ai tuoi amici questa applicazione</li>
+<li>aiutando nello sviluppo tecnico di questa app</li>
+<li>proponendo idee per migliorare l'esperienza d'uso</li>
+<li>usandola e dando un tuo feedback</li>
+</ul>
+
+<h2>Detto ciò, ti ringrazio di essere passato da queste parti e buon proseguimento :)</h2>
