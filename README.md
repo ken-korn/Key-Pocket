@@ -24,7 +24,7 @@
 <p>Che tu sia un semplice utente di internet, un programmatore o un alieno, puoi dare in ogni caso una mano:</p>
 <ul>
 <li>facendo conoscere ai tuoi amici questa applicazione</li>
-<li>aiutando nello sviluppo tecnico di questa app</li>
+<li>aiutando nello sviluppo tecnico di questa app, sia effettuando dei test sia migliorando il codice</li>
 <li>proponendo idee per migliorare l'esperienza d'uso</li>
 <li>usandola e dando un tuo feedback</li>
 </ul>
