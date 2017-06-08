@@ -1,5 +1,5 @@
-<h1>Siti testati</h1>
-<h1>Testing sites</h1>
+<h1>Siti testati
+Testing sites</h1>
 
 Siti su cui è stato testato lo script Login.php, divisi in base all'esito dell'operazione
 Web sites where Login.php script has been tested, divided by outcome
@@ -8,6 +8,8 @@ Web sites where Login.php script has been tested, divided by outcome
 <h3>BEEN SUCCESSFUL</h3>
 
 https://forum.mrwebmaster.it/
+
+<br>
 
 <h3>NON ANDATI A BUON FINE</h3>
 <h3>NOT BEEN SUCCESSFUL</h3>
