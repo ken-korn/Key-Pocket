@@ -1,8 +1,10 @@
-<h1>Siti testati
-Testing sites</h1>
+<h1><pre>Siti testati
+Testing sites</pre></h1>
 
 Siti su cui è stato testato lo script Login.php, divisi in base all'esito dell'operazione
 Web sites where Login.php script has been tested, divided by outcome
+
+<br>
 
 <h3>ANDATI A BUON FINE</h3>
 <h3>BEEN SUCCESSFUL</h3>
