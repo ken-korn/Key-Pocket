@@ -1,6 +1,6 @@
 # Key-Pocket
 
-<img src="Lang-Ita.svg.png" height=50px width=100px>
+<img src="https://raw.githubusercontent.com/ken-korn/Key-Pocket/master/zReadme_files/Lang-Ita.svg.png" height=50px width=100px>
 
 <h1>Cos'è?</h1>
 
