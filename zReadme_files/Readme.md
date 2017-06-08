@@ -1,4 +1,4 @@
-<img>Lang-Eng.svg.png</img>
+<img src="Lang-Eng.svg.png" height=50px></img>
 
 <h1>Folder Info</h1>
 <p>This folder contains only files used in readmes, it doesn't belong to application</p>
