@@ -1,6 +1,6 @@
 <h1>Siti testati
 <br>
-Testing sites</h1>
+Tested sites</h1>
 
 <p>Siti su cui è stato testato lo script Login.php, divisi in base all'esito dell'operazione</p>
 <p>Web sites where Login.php script has been tested, divided by outcome</p>
