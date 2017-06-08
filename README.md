@@ -8,12 +8,12 @@
 
 <h1>Per chi è utile?</h1>
 
-<li>
-<ul>Per chi non fa uso di cookie</ul>
-<ul>Per chi ha password lunghe e complicate</ul>
-<ul>Per chi è iscritto a diversi siti a cui accede manualmente e periodicamente</ul>
-<ul>Per chi si vuole loggare ai propri siti da un nuovo dispositivo e non vuole reinserire di nuovo le credenziali per ciascuno di essi</ul>
-</li>
+<ul>
+<li>Per chi non fa uso di cookie</li>
+<li>Per chi ha password lunghe e complicate</li>
+<li>Per chi è iscritto a diversi siti a cui accede manualmente e periodicamente</li>
+<li>Per chi si vuole loggare ai propri siti da un nuovo dispositivo e non vuole reinserire di nuovo le credenziali per ciascuno di essi</li>
+</ul>
 
 <h1>L'app è sicura?</h1>
 
