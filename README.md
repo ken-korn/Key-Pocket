@@ -8,7 +8,7 @@
 
 <h1>Perchè è utile?</h1>
 
-<p>Immaginate di essere registrati su diversi siti che visitate periodicamente. Key Pocket vi permette di creare un account in cui memorizzare le vostre credenziali di accesso e da lì accedere automaticamente ai siti che volete così da non dover più ricordare decine di username e password e reinserirle manualmente ogni volta</p>
+<p>Se siete registrati su diversi siti che visitate giornalmente, dovreste quindi giornalmente aprire la pagina del vostro sito, andare sul suo form di login e immettere le vostre credenziali (se poi avete password sicure difficilmente le ricorderete a memoria, quindi avrete sempre bisogno di consultare un blocco note) e ripetere l'azione per ogni sito che intendete visitare. Key Pocket vi permette di creare un account in cui memorizzare tali credenziali di accesso e da lì accedere automaticamente ai siti che volete così da non dover più ricordare decine di username/password da reinserire manualmente ogni volta risparmiando tempo</p>
 
 <h1>L'app è sicura?</h1>
 
