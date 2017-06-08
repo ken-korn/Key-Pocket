@@ -26,7 +26,13 @@
 <li>facendo conoscere ai tuoi amici questa applicazione</li>
 <li>aiutando nello sviluppo tecnico di questa app, sia effettuando dei test sia migliorando il codice</li>
 <li>proponendo idee per migliorare l'esperienza d'uso</li>
+<li>traducendo i vari file readme all'interno del repository per far interessare anche persone di lingua diversa dall'italiano e dall'inglese al progetto</li>
 <li>usandola e dando un tuo feedback</li>
 </ul>
+
+<h1>Link di riferimento</h1>
+
+https://curl.haxx.se/
+La libreria usata per la connessione
 
 <h2>Detto ciò, ti ringrazio di essere passato da queste parti e buon proseguimento :)</h2>
